@@ -1,0 +1,25 @@
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Travis\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\TraPatcher.exe
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\TraPatcher.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.Properties.Resources.resources
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.exe.licenses
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.exe
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\TraPatcher.exe.config
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.Form1.resources
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.csproj.GenerateResource.Cache
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\NAudio.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\MapleLib.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\NAudio.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\bin\Debug\NAudio.xml
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcher\TraPatcher\obj\x86\Debug\TraPatcher.csprojResolveAssemblyReference.cache
