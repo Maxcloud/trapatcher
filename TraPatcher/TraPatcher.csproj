@@ -87,14 +87,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\DRObjMaker1\MapleLib2\MapleLib.csproj">
+    <None Include="Resources\DefaultLogo.png" />
+    <Content Include="WzPatcher.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MapleLib2\MapleLib.csproj">
       <Project>{28AAB36D-942E-4476-A000-0E9DE380F390}</Project>
       <Name>MapleLib</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DefaultLogo.png" />
-    <Content Include="WzPatcher.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
