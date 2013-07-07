@@ -1,0 +1,16 @@
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Debug\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Debug\MapleLib.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Debug\NAudio.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Debug\NAudio.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Debug\NAudio.xml
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\obj\x86\Debug\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\obj\x86\Debug\MapleLib.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\obj\x86\Debug\MapleLib.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\bin\x86\Debug\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\bin\x86\Debug\MapleLib.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\bin\x86\Debug\NAudio.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\bin\x86\Debug\NAudio.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\bin\x86\Debug\NAudio.xml
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\obj\x86\Debug\MapleLib.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\obj\x86\Debug\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\TraPatcherSVN\MapleLib2\obj\x86\Debug\MapleLib.pdb

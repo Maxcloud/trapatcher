@@ -1,0 +1,6 @@
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Release\MapleLib.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Release\NAudio.dll
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Release\NAudio.pdb
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\bin\x86\Release\NAudio.xml
+C:\Users\Travis\Documents\Visual Studio 2010\Projects\DRObjMaker1\MapleLib2\obj\x86\Release\MapleLib.dll
